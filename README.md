@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+ITMO University student
+
+My darling dear, love you all the time
+
 <!--
 **Hodache/Hodache** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
